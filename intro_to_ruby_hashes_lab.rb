@@ -1,5 +1,5 @@
 def new_hash
-  :hash => {}
+  hash = {:key => "new value"}
 end
 
 def actor
